@@ -1,7 +1,7 @@
 # ♟️🏆♟️ Chess Games Analysis
 
 
- Based on [analyzing-chess-dataset](https://www.kaggle.com/code/fabrizioferrari73/analyzing-chess-dataset), in this project we want to do some beginner analysis on the [Top 20 chess players 2000-2021](https://www.kaggle.com/datasets/medaxone/top-20-chess-ratings-20002021) dataset and answer the following questions:
+ Based on [analyzing-chess-dataset](https://www.kaggle.com/code/fabrizioferrari73/analyzing-chess-dataset), in this project we want to do some analysis on the [Top 20 chess players 2000-2021](https://www.kaggle.com/datasets/medaxone/top-20-chess-ratings-20002021) dataset and answer the following questions:
  
 
 ###### 1. Who had the highest ELO? In which year?
